@@ -7,19 +7,13 @@
     "test": "test"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.24.0",
     "socks-proxy-agent": "^4.0.2"
   },
-  "devDependencies": {
-    "mocha": "^6.2.2"
-  },
-  "scripts": {
-    "test": "mocha test/test.js"
-  },
-  "author": "pelogvc",
+  "author": "pelogvc, jackHedaya",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pelogvc/tor-axios"
+    "url": "https://github.com/jackHedaya/tor-axios"
   }
 }
